@@ -16,4 +16,4 @@
 </div>
 
 <h1>📝 API 명세서</h1>
-<a src="https://sincere-mass-b32.notion.site/API-15cdd9371a1080e29613d6cee5107ac2?pvs=74">API 명세서(노션)</a>
+<a href="https://sincere-mass-b32.notion.site/API-15cdd9371a1080e29613d6cee5107ac2?pvs=74">API 명세서(노션)</a>
