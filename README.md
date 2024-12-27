@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Java%2017-007396?style=for-the-badge&logo=Java&logoColor=white"> 
   <img src="https://img.shields.io/badge/MariaDB%2015.1-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot%203.4-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=white">
   
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=black">
   <img src="https://img.shields.io/badge/Spring%20Boot%203.4-green" alt="Spring Boot 3.4" />
