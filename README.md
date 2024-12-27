@@ -69,4 +69,4 @@
 
 <hr />
 <h1>ERD</h1>
-![image](https://github.com/user-attachments/assets/becd7af7-cd97-43fd-8d30-989d0c9d88fa)
+<img src="https://github.com/user-attachments/assets/069de6a1-f7f7-4e87-ae4f-9aa43f356799" width=500/>
