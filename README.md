@@ -3,7 +3,7 @@
 <hr />
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/JAVA%2017?color=orange">
+  <img src="https://img.shields.io/badge/JAVA%2017?color=orange">
   
   
 </div>
